@@ -15,9 +15,10 @@ seja no trabalho, nos estudos, nas atividades domésticas ou em qualquer outra �
 por produtividade e eficiência, o uso de um gerenciador de tarefas se tornou fundamental para ajudar as pessoas a se
 manterem focadas, organizadas e alcançarem seus objetivos.
 
-Grupo: Gerenciamento de tarefas
 
-### Integrantes 
+# Integrantes 
+
+**Grupo:** Gerenciamento de tarefas
 
 GUILHERME HENRIQUE MELO DE OLIVEIRA – RM: 95184
 GUILHERME LUCAS ARTIGIANI – RM: 94322
