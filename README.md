@@ -17,7 +17,7 @@ manterem focadas, organizadas e alcançarem seus objetivos.
 
 Grupo: Gerenciamento de tarefas
 
-# Integrantes 
+### Integrantes 
 
 GUILHERME HENRIQUE MELO DE OLIVEIRA – RM: 95184
 GUILHERME LUCAS ARTIGIANI – RM: 94322
