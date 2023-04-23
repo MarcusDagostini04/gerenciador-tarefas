@@ -199,6 +199,11 @@ por produtividade e eficiência, o uso de um gerenciador de tarefas se tornou fu
 manterem focadas, organizadas e alcançarem seus objetivos.
 
 
+### Arquitetura do Projeto
+
+![Projeto](./arquitetura.png)
+
+
 ### Integrantes 
 
 **Grupo:** Gerenciamento de tarefas
@@ -209,6 +214,8 @@ LUCAS VINICIUS OLIVEIRA GALINDO – RM: 95177
 MARCUS VINICIUS DAGOSTINI – RM: 94279
 THIAGO RIBEIRO DA COSTA – RM: 92800
 VINICIUS GONÇALVES CARNEIRO – RM: 94154
+
+
 TURMA - 2TDST
 
 
